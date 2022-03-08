@@ -28,7 +28,7 @@ SELECT COUNT(*) FROM usuarios;
 
 5 - Faça uma query que retorna a soma total do estoque de todos os medicamentos das categorias `blue` e `black` na tabela `farmacia`.
 
-6
+
 Faça o teste com outros exemplos.
 
 Faça commit do resultado.
